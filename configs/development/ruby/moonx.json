@@ -27,7 +27,8 @@
     },
     "toolchains": [
       {
-        "url": "https://github.com/ZyCromerZ/Clang/releases/download/22.0.0git-20250928-release/Clang-22.0.0git-20250928.tar.gz",
+        "repo": "https://gitlab.com/DR-KernelArchive/clang/r563880",
+        "branch": "main",
         "name": "clang-AOSP",
         "binPath": ["/bin"]
       }
